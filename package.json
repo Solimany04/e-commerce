@@ -1,5 +1,5 @@
 {
-  "homepage": "https://github.com/Solimany04/e-commerce.git",
+  "homepage": "https://Solimany04.github.io/e-commerce/",
   "name": "ecommerce-frontend",
   "private": true,
   "version": "0.0.0",
@@ -16,11 +16,13 @@
     "@emailjs/browser": "^4.4.1",
     "bootstrap": "^5.3.6",
     "bootstrap-icons": "^1.12.1",
+    "fontawesome": "^5.6.3",
     "gh-pages": "^6.3.0",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
     "react-router-dom": "^7.5.3",
-    "sweetalert2": "^11.21.0"
+    "sweetalert2": "^11.21.0",
+    "tailwind": "^4.0.0"
   },
   "devDependencies": {
     "@eslint/js": "^9.25.0",
